@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [inquest](https:/github.com/yiblet/inquest)
+- 🔭 I’m currently working on [inquest](https://github.com/yiblet/inquest)
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/shalom-yiblet-902a6aab/) 
   - [My Site](https://yiblet.com)
