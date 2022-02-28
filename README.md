@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Capsule](https://capsule.click)
+- 🔭 I’m currently working on [Temelpa](https://temelpa.holdings)
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/shalom-yiblet-902a6aab/) 
   - [My Site](https://yiblet.com)
